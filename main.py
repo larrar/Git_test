@@ -5,7 +5,7 @@
 print("This is main.py")
 print("Cat Demi in Dev branch")
 
-print("New Line in Main branch for VS Code")
+
 
 print("New line in Dev branch")
 print("Made changes in main branch")
